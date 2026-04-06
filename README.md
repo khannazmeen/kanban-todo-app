@@ -92,7 +92,7 @@ npm start
 
 ---
 
-## 🌐 API Used
+## API Used
 
 ```
 https://jsonplaceholder.typicode.com/todos?_limit=5
@@ -102,7 +102,7 @@ Used to fetch initial task data.
 
 ---
 
-## 🔄 Drag & Drop Implementation
+## Drag & Drop Implementation
 
 Implemented using:
 
@@ -147,8 +147,4 @@ Implemented using:
 
 **Nazmeen Khan**
 
----
 
-##  If you like this project
-
-Give it a ⭐ on GitHub!
