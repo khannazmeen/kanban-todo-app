@@ -7,7 +7,7 @@ It allows users to manage tasks across different stages using **drag-and-drop fu
 
 ##  Live Demo
 
-🔗 https://your-live-link.vercel.app
+🔗 https://kanban-todo-app-hazel.vercel.app/
 
 ---
 
@@ -68,7 +68,7 @@ src/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/khannazmeen/kanban-todo-app.git
 ```
 
 ### 2. Navigate to project folder
